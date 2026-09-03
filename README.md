@@ -356,9 +356,6 @@ The project includes visualizations for:
 * Heatmaps & Scatter Plots
 * Cluster Visualizations & Distribution Charts
 
-![Clusters1]('Clusters1.png')
-![Clusters2]('Clusters2.png')
-
 ---
 
 ## 🧰 14. Technologies Used
