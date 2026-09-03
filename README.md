@@ -355,7 +355,8 @@ The project includes visualizations for:
 * Bar Charts & Count Plots
 * Heatmaps & Scatter Plots
 * Cluster Visualizations & Distribution Charts
-
+![Cluster Distribution](Clusters1.png)
+![Cluster Segmentation](Clusters2.png)
 ---
 
 ## 🧰 14. Technologies Used
