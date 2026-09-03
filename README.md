@@ -357,7 +357,7 @@ The project includes visualizations for:
 * Cluster Visualizations & Distribution Charts
 
 ![Clusters1]('Clusters1.png')
-![Clusters2]('Clusters.png')
+![Clusters2]('Clusters2.png')
 
 ---
 
